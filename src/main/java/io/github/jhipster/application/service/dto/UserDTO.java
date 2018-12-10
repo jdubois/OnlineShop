@@ -84,7 +84,7 @@ public class UserDTO {
     }
 
     public String getLogin() {
-        return login;
+        return login.toUpperCase();
     }
 
     public void setLogin(String login) {
