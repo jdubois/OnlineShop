@@ -1,0 +1,39 @@
+{
+  "generator-jhipster": {
+    "applicationType": "monolith",
+    "gitCompany": "",
+    "baseName": "OnlineShop",
+    "packageName": "io.github.jhipster.application",
+    "packageFolder": "io/github/jhipster/application",
+    "serverPort": 8080,
+    "serviceDiscoveryType": false,
+    "authenticationType": "jwt",
+    "uaaBaseName": "../uaa",
+    "cacheProvider": "ehcache",
+    "enableHibernateCache": true,
+    "websocket": false,
+    "databaseType": "sql",
+    "devDatabaseType": "h2Disk",
+    "prodDatabaseType": "mysql",
+    "searchEngine": false,
+    "enableSwaggerCodegen": false,
+    "messageBroker": false,
+    "buildTool": "maven",
+    "useSass": false,
+    "clientPackageManager": "npm",
+    "testFrameworks": [],
+    "enableTranslation": false,
+    "nativeLanguage": "en",
+    "languages": [
+      "en"
+    ],
+    "clientFramework": "angularX",
+    "jhiPrefix": "jhi",
+    "jhipsterVersion": "5.7.0",
+    "jwtSecretKey": "MTBiMTU1YzMwOWI0MTI0NTM0YTkxZWM5YTA1NGMwYzFlNjA2NjZhZDM2ZDgyNjk4NDUwY2ZiYjJmMGQ5NTY1ODliYmM1N2FlOWIxMWU3ZTE0MTBkNGUxZTZmNGUxZWRmODRjMWFiNTc5NDJhMDljMjkyZTQ0NWYzMTc0NDVkZTc=",
+    "otherModules": []
+  },
+  "git-provider": "GitHub",
+  "git-company": "jdubois",
+  "repository-name": "OnlineShop"
+}
